@@ -11,7 +11,7 @@ public class Github {
 		String[] names= new String[] {"anjali,sai,jaya"};
 	    List<String> namelist= new ArrayList<String>(Arrays.asList(names));
 	    System.out.println(namelist);
-
+System.out.println("first project");
 	}
 
 }

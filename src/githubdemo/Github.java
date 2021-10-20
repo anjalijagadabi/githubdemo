@@ -12,6 +12,7 @@ public class Github {
 	    List<String> namelist= new ArrayList<String>(Arrays.asList(names));
 	    System.out.println(namelist);
 System.out.println("first project");
+System.out.println("second project");
 	}
 
 }
